@@ -1,0 +1,67 @@
+{
+  "tracks": [
+    {
+      "name": "Space",
+      "author": "Capital Cities",
+      "album": "Solarize",
+      "duration": "3:04",
+      "type": "normal",
+      "isPlaying": "false",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Swimming Pool Summer",
+      "author": "Capital Cities",
+      "album": "Solarize",
+      "duration": "3:33",
+      "type": "EXPLICIT",
+      "isPlaying": "false",
+      "isFavorite": "false"
+    },
+    {
+      "name": "My Name Is Mars",
+      "author": "Capital Cities",
+      "album": "Solarize",
+      "duration": "3:11",
+      "type": "normal",
+      "isPlaying": "false",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Venus & River",
+      "author": "Capital Cities",
+      "album": "Solarize",
+      "duration": "3:04",
+      "type": "normal",
+      "isPlaying": "false",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Darkside",
+      "author": "Alan Walker",
+      "album": "Darkside",
+      "duration": "3:31",
+      "type": "normal",
+      "isPlaying": "false",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Faded",
+      "author": "Alan Walker",
+      "album": "Darkside",
+      "duration": "3:26",
+      "type": "normal",
+      "isPlaying": "false",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Safe and Sound",
+      "author": "Capital Cities",
+      "album": "Remix EP",
+      "duration": "3:26",
+      "type": "normal",
+      "isPlaying": "false",
+      "isFavorite": "false"
+    }
+  ]
+}
